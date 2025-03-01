@@ -4,8 +4,8 @@
 This repository contains my daily Java coding practice. I solve **5 problems every day** to improve consistency, problem-solving skills, and mastery of Java.  
 
 ## Progress 
-- **Total Problems Solved:** 14
-- **Streak:** 3 days in a row  
+- **Total Problems Solved:** 21
+- **Streak:** 4 days in a row  
 
 ## Topics To be Covered 
 -  Data Structures (Arrays, LinkedLists, Stacks, Queues, Trees, Graphs)  
