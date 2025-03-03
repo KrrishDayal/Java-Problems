@@ -4,7 +4,7 @@
 This repository contains my daily Java coding practice. I solve **5 problems every day** to improve consistency, problem-solving skills, and mastery of Java.  
 
 ## Progress 
-- **Total Problems Solved:** 21
+- **Total Problems Solved:** 26
 - **Streak:** 4 days in a row  
 
 ## Topics To be Covered 
